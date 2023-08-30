@@ -18,6 +18,7 @@ export const TodolistApi = {
         return instanse.put<ResponseType>(`todo-lists/${todolistId}`, {title})
     }
 }
+
 type TodolistType = {
     id: string,
     title: string,
