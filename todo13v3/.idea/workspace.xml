@@ -4,173 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27e13382-8cf7-4ba6-8edc-a9bb1029da60" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/13lesson.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/todo13v3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.storybook/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.storybook/preview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AddItemForm.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EditableSpan.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Todolist.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/api/tasks-api.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/api/todolist-api.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/react-app-env.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reportWebVitals.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/setupTests.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/store.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/tasks-reducer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/todolists-reducer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/tasks-api.stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/todolists-api.stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-17/it-incubator-todolist-ts-17/.prettierrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-17/it-incubator-todolist-ts-17/yarn.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-18/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-18/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-18/.idea/it-incubator-todolist-ts-18.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-18/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-18/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-18/it-incubator-todolist-ts-18/src/common/enums/enum.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-18/it-incubator-todolist-ts-18/src/common/utils/create-app-async-thunk.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-18/it-incubator-todolist-ts-18/src/common/utils/handle-server-app-error.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-18/it-incubator-todolist-ts-18/src/common/utils/handle-server-network-error.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-18/it-incubator-todolist-ts-18/src/common/utils/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-18/it-incubator-todolist-ts-18/src/features/TodolistsList/todolists.api.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-18/it-incubator-todolist-ts-18/src/features/auth/auth.api.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/.prettierrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/app/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/app/App.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/app/app.reducer.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/app/app.reducer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/app/app.selectors.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/app/store.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/common/actions/common.actions.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/common/actions/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/common/api/common.api.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/common/api/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/common/components/AddItemForm/AddItemForm.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/common/components/EditableSpan/EditableSpan.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/common/components/ErrorSnackbar/ErrorSnackbar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/common/components/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/common/enums/common.enums.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/common/enums/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/common/hooks/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/common/hooks/useAppDispatch.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/common/types/common.types.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/common/utils/create-app-async-thunk.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/common/utils/handle-server-app-error.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/common/utils/handle-server-network-error.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/common/utils/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/features/TodolistsList/Todolist/Task/Task.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/features/TodolistsList/Todolist/Todolist.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/features/TodolistsList/TodolistsList.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/features/TodolistsList/tasks.reducer.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/features/TodolistsList/tasks.reducer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/features/TodolistsList/tasks.selectors.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/features/TodolistsList/todolists-tasks.reducer.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/features/TodolistsList/todolists.api.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/features/TodolistsList/todolists.reducer.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/features/TodolistsList/todolists.reducer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/features/TodolistsList/todolists.selectors.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/features/auth/Login.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/features/auth/auth.api.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/features/auth/auth.reducer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/features/auth/auth.selectors.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/react-app-env.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/serviceWorker.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/src/setupTests.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-19/it-incubator-todolist-ts-19/yarn.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-20/it-incubator-todolist-ts-20/src/features/todolistsList/tasks/api/tasks.api.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-20/it-incubator-todolist-ts-20/src/features/todolistsList/tasks/api/tasks.api.type.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-20/it-incubator-todolist-ts-20/src/features/todolistsList/todolists/api/todolists.api.type.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-20/it-incubator-todolist-ts-20/src/features/todolistsList/todolists/ui/todolist/filterTaskButton.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-20/it-incubator-todolist-ts-20/src/features/todolistsList/todolists/ui/todolist/tasks/task/task.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-20/it-incubator-todolist-ts-20/src/features/todolistsList/todolists/ui/todolist/tasks/tasks.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../it-incubator-todolist-ts-20/it-incubator-todolist-ts-20/src/features/todolistsList/todolists/ui/todolist/todolistTitle/todolistTitle.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../todo14v3.1/todo14v3/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../todo14v3.1/todo14v3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../todo14v3.1/todo14v3/src/AddItemForm.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../todo14v3.1/todo14v3/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../todo14v3.1/todo14v3/src/App.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../todo14v3.1/todo14v3/src/EditableSpan.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../todo14v3.1/todo14v3/src/Task.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../todo14v3.1/todo14v3/src/Todolist.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../todo14v3.1/todo14v3/src/api/todolists-api.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../todo14v3.1/todo14v3/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../todo14v3.1/todo14v3/src/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../todo14v3.1/todo14v3/src/react-app-env.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../todo14v3.1/todo14v3/src/reportWebVitals.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../todo14v3.1/todo14v3/src/setupTests.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../todo14v3.1/todo14v3/src/state/store.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../todo14v3.1/todo14v3/src/state/tasks-reducer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../todo14v3.1/todo14v3/src/state/todolists-reducer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../todo14v3.1/todo14v3/src/tests/unit.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../todo15v3.1/todo15v3/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../todo15v3.1/todo15v3/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../todo15v3.1/todo15v3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../todo15v3.1/todo15v3/.idea/todo15v3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../todo15v3.1/todo15v3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../todo15v3.1/todo15v3/src/app/app-reducer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../todo15v3.1/todo15v3/src/components/ErrorSnackBar/ErrorSnackBar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../todo15v3.1/todo15v3/src/utils/errorUtils.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../todo16v3.1/todo16v3.1/src/features/Login/auth-reducer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../todo16v3.1/todo16v3.1/src/features/Login/login.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/ItIncubatorTodolist.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/ItIncubatorTodolist.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="27e13382-8cf7-4ba6-8edc-a9bb1029da60" name="Changes" comment="13 commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2QVqeoggYjqJXn82YcQaeLguE3h" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -179,23 +27,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/IT/It-Inkybator/ItIncubatorTodolist/13lesson/todo13v3&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;D:\\IT\\It-Inkybator\\ItIncubatorTodolist\\13lesson\\todo13v3\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/IT/It-Inkybator/TaskList/todo13v3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "ts.external.directory.path": "D:\\IT\\It-Inkybator\\TaskList\\todo13v3\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -215,13 +63,53 @@
       <workItem from="1686130509610" duration="566000" />
       <workItem from="1686556474251" duration="597000" />
       <workItem from="1693422368471" duration="627000" />
+      <workItem from="1693423438868" duration="489000" />
     </task>
+    <task id="LOCAL-00001" summary="13 commit">
+      <option name="closed" value="true" />
+      <created>1693423516618</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693423516618</updated>
+    </task>
+    <task id="LOCAL-00002" summary="13 commit">
+      <option name="closed" value="true" />
+      <created>1693423564036</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693423564036</updated>
+    </task>
+    <task id="LOCAL-00003" summary="13 commit">
+      <option name="closed" value="true" />
+      <created>1693423646093</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693423646093</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first commit" />
+    <MESSAGE value="13 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="13 commit" />
   </component>
 </project>
