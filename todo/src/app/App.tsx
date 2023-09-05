@@ -1,6 +1,6 @@
-import React, { useCallback, useEffect } from "react";
-import { useSelector } from "react-redux";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import React, {useEffect} from "react";
+import {useSelector} from "react-redux";
+import {BrowserRouter, Route, Routes} from "react-router-dom";
 import {
   AppBar,
   Button,
@@ -11,32 +11,28 @@ import {
   Toolbar,
   Typography,
 } from "@mui/material";
-import { Menu } from "@mui/icons-material";
-
-import { Login } from "features/auth/Login";
-
+import {Menu} from "@mui/icons-material";
+import {Login} from "features/auth/Login/Login";
 import "./App.css";
-import { TodolistsList } from "features/TodolistsList/TodolistsList";
-import { ErrorSnackbar } from "common/components";
-import { useAppDispatch } from "common/hooks";
-import { selectIsLoggedIn } from "features/auth/auth.selectors";
-import { selectAppStatus, selectIsInitialized } from "app/app.selectors";
-import {authThunks} from "../features/auth/auth.reducer";
+import {TodolistsList} from "features/todolistsList/todolistsList";
+import {ErrorSnackbar} from "common/components";
+import {useActions} from "common/hooks";
+import {selectIsLoggedIn} from "features/auth/auth.selectors";
+import {selectAppStatus, selectIsInitialized} from "app/app.selectors";
+import {authThunks} from "features/auth/auth.reducer";
 
 function App() {
   const status = useSelector(selectAppStatus);
   const isInitialized = useSelector(selectIsInitialized);
   const isLoggedIn = useSelector(selectIsLoggedIn);
 
-  const dispatch = useAppDispatch();
+  const { initializeApp, logout } = useActions(authThunks);
 
   useEffect(() => {
-    dispatch(authThunks.initializeApp());
+    initializeApp({});
   }, []);
 
-  const logoutHandler = useCallback(() => {
-    dispatch(authThunks.logout());
-  }, []);
+  const logoutHandler = () => logout({});
 
   if (!isInitialized) {
     return (
